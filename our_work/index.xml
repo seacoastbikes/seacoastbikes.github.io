@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Work Intro on Seacoast Area Bicycle Riders</title>
+    <link>/our_work/</link>
+    <description>Recent content in Our Work Intro on Seacoast Area Bicycle Riders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/our_work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Work 1</title>
+      <link>/our_work/work1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/our_work/work1/</guid>
+      <description>Need some real articles here on the actual substance. The announcements/openings go under happenings.</description>
+    </item>
+    
+  </channel>
+</rss>

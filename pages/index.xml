@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Seacoast Area Bicycle Riders</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Seacoast Area Bicycle Riders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 05:15:34 +0000</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Events</title>
+      <link>/pages/events/</link>
+      <pubDate>Sun, 18 Nov 2018 02:33:46 +0000</pubDate>
+      
+      <guid>/pages/events/</guid>
+      <description>EVENTS (Draft)
+Check out these upcoming bike events!
+Listings with photos
+Calendar of SABR stuff</description>
+    </item>
+    
+    <item>
+      <title>Advocacy</title>
+      <link>/pages/advocacy/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      
+      <guid>/pages/advocacy/</guid>
+      <description>ADVOCACY (DRAFT)
+SABR was formed in 1992 as an advocacy organization to promote safe and effective bicycling networks in the Seacoast region of New Hampshire and Southern Maine.
+As a nall-volunteer group, SABR has poured our time and passion into advocating for local bicycle infrastructure and helping to incubate new biking initiatives.
+Get Involved button. Link to volunteer sign up
+Our current advocacy focus:
+General Sullivan Bridge – needs content</description>
+    </item>
+    
+    <item>
+      <title>Membership</title>
+      <link>/pages/membership/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:26 +0000</pubDate>
+      
+      <guid>/pages/membership/</guid>
+      <description>SABR is a nonprofit, volunteer organization that has been providing a unified voice for all kinds of bike riders in the Seacoast of New Hampshire and southern Maine since 1992. When you join SABR you are making a statement about your love of cycling!
+Membership comes in two flavors. Join for FREE and be part of the SABR community. Once you Join you can decide whether or not you would like to support us financially too!</description>
+    </item>
+    
+    <item>
+      <title>Ride</title>
+      <link>/pages/ride/</link>
+      <pubDate>Wed, 28 Nov 2018 05:14:39 +0000</pubDate>
+      
+      <guid>/pages/ride/</guid>
+      <description>RIDE! The greater Seacoast is an awesome place to ride your bicycle. Here are some resources to help you enjoy the ride!
+“How to” Video library
+Suggested Road Rides
+ SABRides Cue Sheets Map My Ride Maine Bike Touring Site East Coast Greenway  Mountain Bike Trails (keep as is)
+Rail Trails (link to ??)
+Races (take down Portsmouth Crit, add Raid Rockingham)
+Kids Rides (take down resources tab)
+Riding in the Cold (rename and keep page “In the Elements”)</description>
+    </item>
+    
+  </channel>
+</rss>
